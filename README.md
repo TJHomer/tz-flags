@@ -7,7 +7,6 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/tz-flags.svg)](https://anaconda.org/conda-forge/tz-flags)
 
 
-**Python Boilerplate contains all the boilerplate you need to create a Python package.**
 
 
 -   Free software: GNU General Public License v3
