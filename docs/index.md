@@ -1,17 +1,14 @@
-# tz-flags
-=======
-# tz-flags
+# Welcome to tz_flags
 
 
-[![image](https://img.shields.io/pypi/v/tz-flags.svg)](https://pypi.python.org/pypi/tz-flags)
-[![image](https://img.shields.io/conda/vn/conda-forge/tz-flags.svg)](https://anaconda.org/conda-forge/tz-flags)
+[![image](https://img.shields.io/pypi/v/tz_flags.svg)](https://pypi.python.org/pypi/tz_flags)
 
 
 **Python Boilerplate contains all the boilerplate you need to create a Python package.**
 
 
 -   Free software: GNU General Public License v3
--   Documentation: https://TJHomer.github.io/tz-flags
+-   Documentation: <https://TJHomer.github.io/tz_flags>
     
 
 ## Features
